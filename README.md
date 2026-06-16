@@ -160,9 +160,17 @@ These features played a major role in determining whether a customer was likely 
 
 Model                 |   Accuracy    |    Precision     |    Recall     |    F1 Score
 ----------------------|---------------|------------------|---------------|--------------
-Logistic Regression   |   0.816       |    0.59          |     0.22      |    0.32
-Decision Tree         |   0.7815      |    0.45          |     0.50      |    0.47
-Random Forest         |   0.869       |    0.77          |     0.48      |    0.59
+Logistic Regression   |   81.6%       |    59%           |     22%       |    32%
+Decision Tree         |   78.2%       |    45%           |     50%       |    47%
+Random Forest         |   86.9%       |    77%           |     48%       |    59% 
+
+## Model Performance
+
+| Model | Accuracy | Precision | Recall | F1 Score |
+|---|---|---|---|---|
+| Logistic Regression | 81.6% | 59% | 22% | 32% |
+| Decision Tree | 78.2% | 45% | 50% | 47% |
+| Random Forest | 86.9% | 77% | 48% | 59% |
 
 ![Model Comparison](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/05_Model_Comparison_Visualization.png.png)
 
