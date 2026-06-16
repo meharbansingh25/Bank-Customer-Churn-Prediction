@@ -133,10 +133,10 @@ The clustering process identified multiple customer segments with different chur
 Random Forest Feature Importance analysis showed that the following factors had the strongest influence on churn prediction:
 
 * Age
-* Credit Score
-* Balance
-* Number of Products
 * Estimated Salary
+* Credit Score
+* Number of Products
+* Balance
 * Customer Activity Status
 
 These features played a major role in determining whether a customer was likely to leave the bank.
