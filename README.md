@@ -165,7 +165,7 @@ These features played a major role in determining whether a customer was likely 
 |Random Forest         |   86.9%       |    77%           |     48%       |    59%       |
 
 
-![Model Comparison](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/05_Model_Comparison_Visualization.png)
+![Model Comparison](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/05_Model_Comparison_Visualization.png.png)
 
 ---
 
