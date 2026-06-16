@@ -145,31 +145,38 @@ These features played a major role in determining whether a customer was likely 
 
 ## Churn Distribution
 
-![Churn Distribution](Images/01_Churn_Distribution.png)
+![Churn Distribution](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/01_Churn_Distribution.png)
 
 ---
 
 ## Geography Analysis
 
-![Geography Analysis](Images/02_Geography_Analysis.png)
+![Geography Analysis](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/02_Geography_Analysis.png)
 
----
-
-## K-Means Elbow Method
-
-![Elbow Method](Images/04_Elbow_Method.png)
 
 ---
 
 ## Model Comparison
 
-![Model Comparison](Images/06_Model_Comparison.png)
+Model                Accuracy    Precision    Recall    F1 Score
+---------------------------------------------------------------
+Logistic Regression    0.816        0.59       0.22       0.32
+Decision Tree          0.7815       0.45       0.50       0.47
+Random Forest          0.869        0.77       0.48       0.59
+
+![Model Comparison](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/05_Model_Comparison_Visualization.png.png)
 
 ---
 
 ## Random Forest Feature Importance
 
-![Feature Importance](Images/07_Random_Forest_Feature_Importance.png)
+![Feature Importance](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/07_Random_Forest_Feature_Importance.png)
+
+---
+
+## K-Means Elbow Method
+
+![Elbow Method](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/08_Elbow_Method.png)
 
 ---
 
