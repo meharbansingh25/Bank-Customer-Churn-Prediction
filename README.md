@@ -181,12 +181,6 @@ These features played a major role in determining whether a customer was likely 
 
 ---
 
-## K-Means Cluster Visualization
-
-![Cluster Visualization](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/09_Cluster_Visualization.png)
-
----
-
 ## Conclusion
 
 This project successfully analyzed customer churn behavior using data analysis, customer segmentation, and machine learning techniques.
