@@ -161,13 +161,7 @@ These features played a major role in determining whether a customer was likely 
 
 ---
 
-## Model Performance
-
-| Model               | Accuracy |
-| ------------------- | -------- |
-| Logistic Regression | 81.6%    |
-| Decision Tree       | 78.2%    |
-| Random Forest       | 86.9%    |
+## Model Comparison
 
 ![Model Comparison](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/09_Model_Comparison.png)
 
