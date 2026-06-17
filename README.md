@@ -145,14 +145,19 @@ These features played a major role in determining whether a customer was likely 
 
 ## Churn Distribution
 
-![Churn Distribution](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/01_Churn_Distribution.png)
+![Churn Distribution](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/01_Customer_Churn_Distribution.png)
 
 ---
 
-## Geography Analysis
+## Geography vs Churn
 
-![Geography Analysis](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/02_Geography_Analysis.png)
+![Geography vs Churn](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/03_Geography_vs_Churn.png)
 
+---
+
+## Age vs Churn
+
+![Age vs Churn](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/06_Age_vs_Churn.png)
 
 ---
 
@@ -165,19 +170,19 @@ These features played a major role in determining whether a customer was likely 
 |Random Forest         |   86.9%       |    77%           |     48%       |    59%       |
 
 
-![Model Comparison](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/05_Model_Comparison_Visualization.png.png)
+![Model Comparison](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/09_Model_Comparison.png)
 
 ---
 
 ## Random Forest Feature Importance
 
-![Feature Importance](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/07_Random_Forest_Feature_Importance.png)
+![Feature Importance](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/11_Random_Forest_Feature_Importance.png)
 
 ---
 
 ## K-Means Elbow Method
 
-![Elbow Method](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/08_Elbow_Method.png)
+![Elbow Method](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/12_Elbow_Method.png)
 
 ---
 
