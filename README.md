@@ -84,13 +84,13 @@ These engineered features helped improve customer behavior analysis and model in
 
 ---
 
-## Model Performance
+## Model Comparison (Churn Class Performance)
 
-| Model               | Accuracy |
-| ------------------- | -------- |
-| Logistic Regression | 81.6%    |
-| Decision Tree       | 78.2%    |
-| Random Forest       | 86.9%    |
+|Model                 |   Accuracy    |    Precision     |    Recall     |    F1 Score  |
+|----------------------|---------------|------------------|---------------|--------------|
+|Logistic Regression   |   81.6%       |    59%           |     22%       |    32%       |
+|Decision Tree         |   78.2%       |    45%           |     50%       |    47%       |
+|Random Forest         |   86.9%       |    77%           |     48%       |    59%       |
 
 ---
 
@@ -161,14 +161,13 @@ These features played a major role in determining whether a customer was likely 
 
 ---
 
-## Model Comparison (Churn Class Performance)
+## Model Performance
 
-|Model                 |   Accuracy    |    Precision     |    Recall     |    F1 Score  |
-|----------------------|---------------|------------------|---------------|--------------|
-|Logistic Regression   |   81.6%       |    59%           |     22%       |    32%       |
-|Decision Tree         |   78.2%       |    45%           |     50%       |    47%       |
-|Random Forest         |   86.9%       |    77%           |     48%       |    59%       |
-
+| Model               | Accuracy |
+| ------------------- | -------- |
+| Logistic Regression | 81.6%    |
+| Decision Tree       | 78.2%    |
+| Random Forest       | 86.9%    |
 
 ![Model Comparison](https://github.com/meharbansingh25/Bank-Customer-Churn-Prediction/blob/main/Bank%20Customer%20Churn%20Prediction/Images/09_Model_Comparison.png)
 
